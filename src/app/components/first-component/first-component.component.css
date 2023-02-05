@@ -1,0 +1,12 @@
+section{
+    padding: 10px;
+    border-radius: 10px;
+    font-family: monospace;
+    border: 1.5px solid rgb(255, 0, 0);
+    border-left: 25px solid rgb(255, 0, 0);
+    box-shadow: 3px 3px 10px rgba(255, 0, 0, 0.331);
+}
+
+p{
+    margin-left: 10px;
+}
