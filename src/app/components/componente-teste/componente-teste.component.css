@@ -1,0 +1,20 @@
+p {
+    font-weight: 900;
+    padding: 5px;
+    border-radius: 10px;
+    border: 1.5px solid black;
+    width: fit-content;
+    font-family: monospace;
+}
+
+.boxVerde{
+    box-shadow: 3px 3px 10px rgba(0, 255, 0, 0.518);
+}
+
+.boxVermelho{
+    box-shadow: 3px 3px 10px rgba(255, 0, 0, 0.518);
+}
+
+.boxAzul{
+    box-shadow: 3px 3px 10px rgba(0, 153, 255, 0.518);
+}
